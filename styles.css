@@ -1,0 +1,96 @@
+ body
+            {
+            background: linear-gradient(to right,green,white,red);
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-top:60px;
+            padding-bottom:60px;
+            }
+
+h1 {
+    overflow: hidden;
+    text-align: center;
+    color:black;
+    font-family: fantasy;
+}
+
+h2 {
+    overflow: hidden;
+    text-align: center;
+    color: black;
+    font-family:fantasy;
+}
+
+label{  
+    font-family: fantasy;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+}
+
+nav{
+    overflow: hidden;
+    align-items: center;
+    padding: auto;
+    align-content: center;
+    color: crimson;
+}
+
+tr{
+    overflow: hidden;
+    text-align: center;   
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    color: black;    
+}
+
+table{
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: auto;
+    align-content: center;
+}
+
+
+a {
+    align-content: center;
+    align-items:center;
+    margin: auto;
+    color: crimson;
+    font-style: oblique;
+    
+}
+
+b{
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    color: black;
+    font-style: normal;
+    
+    
+}
+
+fieldset{
+    overflow: hidden;
+  border: 5px solid rgb;
+  width: 550px;
+    margin: auto;
+}
